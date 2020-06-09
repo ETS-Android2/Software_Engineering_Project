@@ -1,7 +1,8 @@
+- This repository contains source code and documentation relevent to 
+this software engineering project.  
+
 - /Documentation, holds all project documents
 
-- /Application, holds application source code project and tests,
-also can be found at https://github.com/jerry1177/Videogram.git
+- /BackEnd-Server, holds application source code project and tests
 
-- /UserInterface, holds front end UI source code,
-also can be found at https://github.com/jerry1177/VideoGramFrontEnd.git
+- /FrontEnd-Client, holds front end UI source code
